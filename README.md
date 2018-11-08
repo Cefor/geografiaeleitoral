@@ -5,7 +5,7 @@
 
 ## Introdução
 
-O presente repositório foi produzido a partir de pesquisa realizada no âmbito do curso Mestrado Profissional em Poder Legislativo, com o objetivo avaliar, de forma comparativa, o potencial explicativo dos principais índices discutidos na literatura para a medição da geografia eleitoral brasileira, conhecidos por N, G e I de Moran, juntamente com um novo indicador, proposto na pesqusia, o índice M.
+O presente repositório foi produzido a partir de pesquisa realizada no âmbito do curso Mestrado Profissional em Poder Legislativo, com o objetivo avaliar, de forma comparativa, o potencial explicativo dos principais índices discutidos na literatura para a medição da geografia eleitoral brasileira, conhecidos por N, G e I de Moran, juntamente com um novo indicador, proposto na pesquisa, o índice M.
 
 O novo indicador se apresenta como alternativa de medição que leva em consideração o peso proporcional das áreas (ou municípios) testadas em relação aos votos totais de um estado. O estudo se fundamenta em pesquisa de caráter exploratório-explicativa, com abordagem quantitativa aplicada a dados eleitorais das votações dos 513 candidatos eleitos para deputado federal nos 26 estados e no Distrito Federal, nas eleições de 2014. Os índices N, G, Moran e M foram testados usando a agregação espacial do município, sendo que o índice N também foi testado empregando a agregação das zonas eleitorais, e o índice M, utilizando um mapa de agregação espacial misto, combinando municípios e as zonas eleitorais dos grandes municípios.
 
