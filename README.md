@@ -11,4 +11,16 @@ O novo indicador se apresenta como alternativa de medição que leva em consider
 
 A partir desses dados, foi possível compor um quadro comparativo com os coeficientes dos indicadores de todos os estados. Os resultados indicam que o índice N por município foi o que apresentou menor capacidade de traduzir a distribuição eleitoral dos candidatos. Os índices G e N por zona eleitoral conseguiram espelhar melhor a realidade das votações em seus coeficientes, especialmente o índice N por zona eleitoral que, por utilizar uma agregação eleitoral com menor variação de tamanho, obteve melhores resultados do que aqueles apresentados pelo N por município. Os coeficientes calculados pelo I de Moran não foram significativos. Já o índice M, em comparação com os demais indicadores, apresentou os resultados mais satisfatórios para a representação das votações dos deputados eleitos, em especial, nos cálculos usando a agregação mista de votos. Por fim, o índice M foi testado utilizando as seções de votação como base de agregação eleitoral em pequenos estados. Essa agregação eleitoral foi mais eficiente em refletir a distribuição eleitoral quando comparada com as demais agregações em estados de mesma magnitude.
 
-## 
+## GeografiaEleitoral.R
+
+Script que efetua a leitura dos arquivos de votação e dos dados geoespaciais *(shapefiles)*, prepara as variáveis para processamento e calcula os índices de medição da geografis eleitoral. Para a execução do script é necessário descompactar os arquivos de votação e de dados geoespaciais.
+
+## Arquivos MunicipiosShapefiles.zip.###
+
+*Shapefile* é um formato popular de arquivo contendo dados geoespaciais em forma de vetor, usado por Sistemas de Informações Geográficas. Os arquivos deste repositório foram gerados pelo IBGE e se constituem em arquivos vetoriais com a divisão das mesoregiões, microregiões, municípios e setores censitários.
+
+## Arquivos MunicipioZona_votacao.zip.###
+
+Arquivos extraídos do [Repositório de Dados Eleitorais do TSE](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais), contendo a votação nominal dos candidatos por município e zona eleitoral, em cada unidade da federação, referentes às eleições de 2014.
+
+
