@@ -13,14 +13,27 @@ A partir desses dados, foi possível compor um quadro comparativo com os coefici
 
 ## GeografiaEleitoral.R
 
-Script que efetua a leitura dos arquivos de votação e dos dados geoespaciais *(shapefiles)*, prepara as variáveis para processamento e calcula os índices de medição da geografis eleitoral. Para a execução do script é necessário descompactar os arquivos de votação e de dados geoespaciais.
+Script que efetua a leitura dos arquivos de votação e de dados geoespaciais *(shapefiles)*, prepara as variáveis para processamento e calcula os índices de medição da geografis eleitoral. Para a execução do script é necessário descompactar os arquivos de votação e de dados geoespaciais.
 
 ## Arquivos MunicipiosShapefiles.zip.###
 
-*Shapefile* é um formato popular de arquivo contendo dados geoespaciais em forma de vetor, usado por Sistemas de Informações Geográficas. Os arquivos deste repositório foram extraídos da página do IBGE e se constituem em arquivos vetoriais com a divisão das mesoregiões, microregiões, municípios e setores censitários.
+Arquivos vetoriais *shapefile*, compactados no formato "zip", contendo as malhas territoriais municipais das unidades da federação e, 2014, incluindo a divisão das mesoregiões, microregiões, municípios e setores censitários. Os arquivos deste repositório foram extraídos da página do [IBGE](https://downloads.ibge.gov.br/downloads_geociencias.htm) e devem ser descompactados antes de ser executado o script "GeografiaEleitoral.R".
+
+*Shapefile* é um formato popular de arquivo contendo dados geoespaciais em forma de vetor, usado por Sistemas de Informações Geográficas.
 
 ## Arquivos MunicipioZona_votacao.zip.###
 
-Arquivos extraídos do [Repositório de Dados Eleitorais do TSE](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais), contendo a votação nominal dos candidatos por município e zona eleitoral, em cada unidade da federação, referentes às eleições de 2014.
+Arquivos compactados no formato "zip", extraídos do [Repositório de Dados Eleitorais do TSE](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais), contendo a votação nominal dos candidatos por município e zona eleitoral, em cada unidade da federação, referentes às eleições de 2014. Devem ser descompactados antes de ser executado o script "GeografiaEleitoral.R".
+
+## Arquivo Indices_Brasil.csv
+
+Arquivo resultante da execução do script "GeografiaEleitoral.R", contendo a relação dos deputados federais eleitos em 2014 e os respectivos índices de medição da geografia eleitoral.
+
+## Indices_Medios_estado.csv
+
+Arquivo resultante da execução do script "GeografiaEleitoral.R", contendo o valor médio dos índices de medição da geografia eleitoral por unidade da federação.
+
+
+
 
 
