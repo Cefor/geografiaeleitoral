@@ -265,10 +265,10 @@ for(x in 1: length(siglas)){
 
 
 names(BR)[1] <- "UF"
-write.table(compara,file = "Comparacao_estados.csv", row.names = FALSE, sep = ";", dec = ",")
+write.table(compara,file = "Indices_Medios_estados.csv", row.names = FALSE, sep = ";", dec = ",")
 
 # Grava a planilha com os índices de todos os deputados eleitos em todo o Brasil
-write.table(BR,file = "Brasil_indices.csv", row.names = FALSE, sep = ";", dec = ",")
+write.table(BR,file = "Indices_Brasil.csv", row.names = FALSE, sep = ";", dec = ",")
 
 #Para de contar o tempo
 proc.time() - ptm
