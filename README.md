@@ -17,7 +17,7 @@ Script que efetua a leitura dos arquivos de votação e dos dados geoespaciais *
 
 ## Arquivos MunicipiosShapefiles.zip.###
 
-*Shapefile* é um formato popular de arquivo contendo dados geoespaciais em forma de vetor, usado por Sistemas de Informações Geográficas. Os arquivos deste repositório foram gerados pelo IBGE e se constituem em arquivos vetoriais com a divisão das mesoregiões, microregiões, municípios e setores censitários.
+*Shapefile* é um formato popular de arquivo contendo dados geoespaciais em forma de vetor, usado por Sistemas de Informações Geográficas. Os arquivos deste repositório foram extraídos da página do IBGE e se constituem em arquivos vetoriais com a divisão das mesoregiões, microregiões, municípios e setores censitários.
 
 ## Arquivos MunicipioZona_votacao.zip.###
 
