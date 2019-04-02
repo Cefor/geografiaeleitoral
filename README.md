@@ -35,7 +35,7 @@ Arquivo resultante da execução do script "GeografiaEleitoral.R", contendo o va
 
 ## Dissertação
 
-Íntegra da dissertação de mestrado com o registros da pesquisa. (aguardando a defesa)
+Íntegra da [dissertação de mestrado](https://sucupira.capes.gov.br//sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=7623973) disponível na plataforma Sucupira.
 
 
 
