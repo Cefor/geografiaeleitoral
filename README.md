@@ -35,7 +35,7 @@ Arquivo resultante da execução do script "GeografiaEleitoral.R", contendo o va
 
 ## Dissertação
 
-Íntegra da [dissertação de mestrado](https://sucupira.capes.gov.br//sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=7623973) disponível na plataforma Sucupira.
+Íntegra da dissertação de mestrado [ANÁLISE COMPARADA DOS MODELOS DE MEDIÇÃO DA GEOGRAFIA ELEITORAL: estudo da efetividade por meio de abordagem quantitativa](https://sucupira.capes.gov.br//sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=7623973) disponível na plataforma Sucupira.
 
 
 
